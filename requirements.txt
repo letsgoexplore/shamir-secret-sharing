@@ -1,0 +1,16 @@
+# 2-of-3 Shamir's Secret Sharing Tool
+# 
+# 依赖说明：
+# 本工具仅使用Python标准库，无需安装任何第三方包。
+# 
+# 系统要求：
+# - Python 3.6 或更高版本
+# 
+# 本文件仅用于文档说明，实际使用时无需运行 pip install
+
+# 无第三方依赖 - 仅使用标准库：
+# - base64
+# - secrets
+# - argparse
+# - sys
+
